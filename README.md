@@ -1,0 +1,2 @@
+# scenarios
+Scenarios is an advanced way to define and schedule test execution using Java API. Scenarios give flexibility of executing tests in parallel, repeating same test code with different input data and simulating events combining multiple executions of Flows. Scenarios allow defining a wide variety of tests: from Acceptance and Integration tests to End-to-End and Performance tests. For debugging advanced executions, Scenarios provide visualization support.
