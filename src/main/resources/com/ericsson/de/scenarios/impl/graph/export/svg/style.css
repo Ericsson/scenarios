@@ -1,0 +1,28 @@
+text {
+    pointer-events: none;
+}
+
+.tooltip {
+    visibility: hidden;
+}
+
+.tooltip body {
+    background: #FCF0AD;
+    width: 300px;
+    height: 500px;
+    overflow: auto;
+    font-size: 12px;
+    padding: 10px 0 0 10px;
+}
+
+.tooltip .close {
+    position: fixed;
+    left: 285px;
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+    background: #ccc;
+    padding: 1px 4px;
+    display: block;
+    border: 1px solid black;
+}
