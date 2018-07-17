@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <styles>
-  <style name="TAF Scenario" scope="node" selectionOnly="false">
+  <style name="Scenario" scope="node" selectionOnly="false">
     <mapping>
       <source name="Vertex Type" origin="customProperty" type="string"/>
       <target name="template" type="nodeTemplate">
@@ -400,7 +400,7 @@
       <conversion type="asIs"/>
     </mapping>
   </style>
-  <style name="TAF Scenario" scope="edge" selectionOnly="false">
+  <style name="Scenario" scope="edge" selectionOnly="false">
     <mapping>
       <source name="Edge Label" origin="customProperty" type="string"/>
       <target name="labelText" type="string">

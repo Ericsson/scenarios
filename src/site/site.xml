@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/DECORATION/1.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd">
+
+  <bannerLeft>
+    <name>Scenario Rx</name>
+  </bannerLeft>
+
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-fluido-skin</artifactId>
+    <version>1.6</version>
+  </skin>
+
+  <custom>
+    <fluidoSkin>
+      <breadcrumbDivider>|</breadcrumbDivider>
+      <sideBarEnabled>false</sideBarEnabled>
+    </fluidoSkin>
+  </custom>
+
+  <body>
+    <breadcrumbs>
+      <item name="Documentation" href="/index.html"/>
+      <item name="Java Docs" href="/apidocs/index.html"/>
+    </breadcrumbs>
+  </body>
+
+</project>
