@@ -346,7 +346,7 @@
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,128,140)" stroke-linecap="butt">
           <text x="-5.6882" xml:space="preserve" y="192.6699" stroke="none">Although vUser 2 finished faster than vUser1,</text>
-          <text x="-67.739" xml:space="preserve" y="206.6387" stroke="none"> sublow execution will not start untill both vUsers reach this point </text>
+          <text x="-67.739" xml:space="preserve" y="206.6387" stroke="none"> sublow execution will not start until both vUsers reach this point </text>
         </g>
       </g>
     </g>
